@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Ahmed Mohamed Neamatallah</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ahmed Mohamed Neamatallah</h1>
+        <h2>Data Analyst</h2>
+        <p>
+            <strong>Email:</strong> <a href="mailto:Ahmedneamatallah46@gmail.com">Ahmedneamatallah46@gmail.com</a> | 
+            <strong>Phone:</strong> +201014302513 | 
+            <strong>Location:</strong> Cairo, Egypt | 
+            <strong>LinkedIn:</strong> <a href="#">Link</a> | 
+            <strong>GitHub:</strong> <a href="#">Link</a>
+        </p>
+    </header>
+    
+    <section>
+        <h2>Summary</h2>
+        <p>Certified Data Analyst skilled in data visualization, Python & R programming, extracting insights to enhance decision-making and operational efficiency. Seeking to contribute analytical expertise to drive business success.</p>
+    </section>
+
+    <section>
+        <h2>Experience</h2>
+        <h3>June 2024 – Present</h3>
+        <p><strong>Data Analyst Specialist (Part-Time), Digital Egyptian Pioneers Initiatives</strong></p>
+        <ul>
+            <li>Analyzed data and extracted insights from large datasets using SQL and Excel.</li>
+            <li>Created and presented data visualizations using Tableau and Power BI.</li>
+            <li>Conducted data preparation and cleaning using Python and Pandas.</li>
+            <li>Applied statistical analysis techniques to identify patterns and trends.</li>
+            <li>Engaged in data mining activities to support business strategies.</li>
+            <li>Ensured adherence to data governance practices.</li>
+        </ul>
+
+        <h3>February 2023 – Present</h3>
+        <p><strong>Data Entry Coordinator & Stock Control (Full-Time), Kazyon</strong></p>
+        <ul>
+            <li>Improved data accuracy by 20% across Egypt and Morocco sites.</li>
+            <li>Utilized automation tools like Excel macros and SAP functionalities.</li>
+            <li>Leveraged SQL to extract stock data.</li>
+            <li>Collaborated with teams to audit stock data.</li>
+        </ul>
+
+        <h3>December 2022 – January 2023</h3>
+        <p><strong>Data Entry Operator (Full-Time), Mars</strong></p>
+        <ul>
+            <li>Ensured 98% accuracy in data entry for over 500 inventory records.</li>
+            <li>Worked cross-functionally to audit and update stock data.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>February 2022</h3>
+        <p>Bachelor of Science, Damanhur University</p>
+    </section>
+
+    <section>
+        <h2>Technical Certifications</h2>
+        <ul>
+            <li>Power BI & DAX in Data Visualization, Data Camp (link)</li>
+            <li>Data in SQL, Data Camp (link)</li>
+            <li>Data Analysis & Visualization with Python, Udemy (link)</li>
+            <li>Data Manipulation in Python: Master Python, NumPy & Pandas, Udemy (link)</li>
+            <li>MS Excel for Data Analytics, Udemy (link)</li>
+            <li>Data Science & Analytics, IBM (link)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Key Skills</h2>
+        <ul>
+            <li>Proficiency in Data Visualization Tools: Power BI & Tableau</li>
+            <li>Efficiency in Data Analysis Tools: R Programming, SQL & Excel</li>
+            <li>Data Preparation and Cleaning: Python, Pandas & NumPy</li>
+            <li>Statistical Analysis: Descriptive & Inferential Statistics</li>
+            <li>Data Mining: Pattern Recognition & Trend Analysis</li>
+            <li>Tools & Technologies: Microsoft Office Suite, Google Workspace & Git</li>
+            <li>Data Governance: Understanding of compliance and best practices</li>
+            <li>Project Management: Familiarity with Agile methodologies</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li><strong>Business Sales Dashboard:</strong> Executed in-depth data analysis with Excel (link)</li>
+            <li><strong>Supermarket Sales:</strong> Analyzed supermarket sales data (link)</li>
+            <li><strong>Spotify's Most Streamed Songs:</strong> Developed Power BI dashboards (link)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>Arabic: Native</li>
+            <li>English: Intermediate B2+</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>References available upon request.</p>
+    </footer>
+</body>
+</html>
